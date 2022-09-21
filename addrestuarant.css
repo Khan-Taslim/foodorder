@@ -1,0 +1,16 @@
+.allpage{
+    height: 650px;
+    width: 600px;
+    background-color: aqua;
+    margin: auto;
+    background-image: url(images/login.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.allpage h3{
+    color: #e1f0f1;
+}
+.allpage input{
+    width: 250px;
+    background-color: #f0eeea;
+}

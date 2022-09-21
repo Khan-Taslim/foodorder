@@ -1,0 +1,334 @@
+.allpage{
+    height: 1600px;
+    width: 1515px;
+    background-color: whitesmoke
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 500px;
+    width: 1515px;
+    background-image: url(images/kaboompics_Preparing\ a\ Thanksgiving\ dinner\ -\ festive\ meal.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.header h1{
+    text-align: center;
+    position: relative;
+    top: 290px;
+
+    color:brown;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+}
+.header h4{
+    color: brown;
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
+.header h3{
+    position: relative;
+    top: 290px;
+    text-align: center;
+    font-size: 35px;
+    color: brown;
+}
+.one{
+    position: relative;
+    left: 700px;
+    width: 150px;
+    height: 30px;
+    top: 290px;
+    background-color:#949297
+}
+.two{
+    position: relative;
+    top: 300px;
+    left: 646px;
+    width: 250px;
+    height: 30px;
+    background-color: lavender;
+
+}
+ul li{
+    display: inline;
+    position: relative;
+    bottom: 105px;
+    left: 800px;
+    margin: 30px;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+}
+
+
+.container{
+height: 370px;
+width: 1515px;
+display: flex;
+position: relative;
+top: 50px;
+left: 250px;
+
+}
+.three{
+    height: 255px;
+    width: 305px;
+    margin: 20px;
+    border: 5px solid #d84949;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.four{
+    
+    height: 255px;
+    width: 305px;
+    margin: 20px;
+    
+    border: 5px solid #d84949;
+    border-radius: 10px 10px 10px 10px;
+}
+.five{
+    
+    height: 255px;
+    width: 305px;
+    margin: 20px;
+    
+    border: 5px solid #d84949;
+    border-radius: 10px 10px 10px 10px;
+}
+#a{
+    font-size: 20px;
+    color: brown
+}
+#c{
+    font-size: 20px;
+    color: brown
+}
+#e{
+    font-size: 20px;
+    color: brown
+}
+
+
+.content{
+    height: 70px;
+    width: 1515px;
+    text-align: center;
+}
+.photos{
+    height: 350px;
+    width: 1515px;
+    display: flex;
+    
+}
+.six{
+    background-image: url(images/bar-2689548_960_720.jpg);
+    background-size: 100% 100%;
+    height:300px ;  
+    width: 200px;
+    float: left;
+    margin: 30px;
+    position: relative;
+    left:250px;
+    border-radius: 10px;
+
+}
+.six h3{
+    position: relative;
+    top: 260px;
+    color: whitesmoke;
+}
+.six a{
+    position: relative;
+    top: 260px;
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+.seven{
+    background-image: url(images/1-SM218403.jpg);
+    background-size: 100% 100%;
+    height: 300px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    border-radius: 10px;
+
+    position: relative;
+    left:250px;
+}
+.seven h3{
+    
+    position: relative;
+    top: 260px;
+}
+.seven a{
+    
+    position: relative;
+    top: 260px;
+    color: black;
+    text-decoration: none;
+}
+
+.nine{
+    background-image: url(images/kaboompics_Meringue\ Cake.jpg);
+    background-size: 100% 100%;
+    height:300px ;  
+    width: 200px;
+    float: left;
+    margin: 30px;
+    position: relative;
+    left:250px;
+    border-radius: 10px;
+
+}
+.nine h3{
+    position: relative;
+    top: 260px;
+}
+.nine a{
+    
+    position: relative;
+    top: 260px;
+    color: black;
+    text-decoration: none;
+}
+.ten{
+    height: 300px;
+    width: 200px ;
+    background-image: url(images/kaboompics_Raspberries.jpg);
+    background-size: 100% 100%;
+    float: left;
+    margin: 30px;
+    position: relative;
+    left:250px;
+    border-radius: 10px;
+}
+.ten h3{
+    
+    position: relative;
+    top: 260px;
+    color: whitesmoke;
+}
+.ten a{
+    
+    position: relative;
+    top: 260px;
+    text-decoration: none;
+    color:whitesmoke;
+}
+.footer{
+    height: 310px;
+    width: 1515px;
+    background-color: whitesmoke;
+
+}
+
+.eleven{
+    height: 50px;
+    width: 950px;
+
+    float: left;
+}
+.eleven h1{
+    text-align: center;
+}
+.twelve{
+    height: 50px;
+    width:565px ;
+    float: left;
+}
+.twelve select{
+    height: 30px;
+    width: 100px;
+    align-items: center;
+    position: relative;
+    left: 100px;
+    margin: 10px;
+}
+.thirteen{
+    height: 230px;
+    width: 200px;
+    float: left;
+    top: 10px;
+    background-color: whitesmoke;
+    position: relative;
+    left: 150px;
+    margin: 20px;
+}
+.thirteen a{
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 30px;
+    color: rgb(116, 111, 111);
+}
+
+.fourteen{
+    height: 230px;
+    width: 200px;
+    float: left;
+    top: 10px;
+    position: relative;
+    left: 150px;
+    margin: 20px;
+}
+.fourteen a{
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 30px;
+    color: rgb(116, 111, 111);
+}
+.fifteen{
+    height: 230px;
+    width: 200px;
+    float: left;
+    top: 10px;
+    position: relative;
+    left: 150px;
+    margin: 20px;
+}
+.fifteen a{
+    
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 30px;
+    color: rgb(116, 111, 111);
+}
+.sixteen{
+    height: 230px;
+    width: 200px;
+    float: left;
+    top: 10px;
+    position: relative;
+    left: 150px;
+    margin: 20px;
+}
+.sixteen a{
+    
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 30px;
+    color: rgb(116, 111, 111);
+}
+.seventeen{
+    height: 230px;
+    width: 200px;
+    float: left;
+    top: 10px;
+    position: relative;
+    left: 150px;
+    margin: 20px;
+}
